@@ -63,7 +63,7 @@
 ### 🔧 **Lần đầu sử dụng:**
 1. **Khởi động game** Genshin Impact ở chế độ cửa sổ (Windowed)
 2. **Mở WhiteBox-GI** với quyền Administrator
-3. **Cấu hình độ phân giải** phù hợp (khuyến nghị 1920x1080)
+3. **Cấu hình độ phân giải** phù hợp (khuyến nghị 1920x1080 hoặc 1920x1440)
 4. **Kiểm tra nhận diện** - click "Test Recognition" để đảm bảo hoạt động
 
 ### 🎮 **Sử dụng tính năng:**
