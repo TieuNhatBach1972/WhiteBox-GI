@@ -64,34 +64,34 @@
 1. **Khởi động game** Genshin Impact ở chế độ cửa sổ (Windowed)
 2. **Mở WhiteBox-GI** với quyền Administrator
 3. **Cấu hình độ phân giải** phù hợp (khuyến nghị 1920x1080 hoặc 1920x1440)
-4. **Kiểm tra nhận diện** - click "Test Recognition" để đảm bảo hoạt động
+4. **Kiểm tra nhận diện** - click "Kiểm tra nhận diện" để đảm bảo hoạt động
 
 ### 🎮 **Sử dụng tính năng:**
 
 #### **📦 Tự động nhặt đồ:**
-- Bật tính năng trong tab "Auto Pickup"
+- Bật tính năng trong tab "Tự động nhặt đồ"
 - Di chuyển nhân vật gần vật phẩm
-- Phần mềm sẽ tự động nhặt
+- Phần mềm sẽ tự động thu thập
 
 #### **🎣 Tự động câu cá:**
 - Vào khu vực câu cá trong game
-- Bật "Auto Fishing" trong phần mềm
+- Bật "Tự động câu cá" trong phần mềm
 - Ném cần câu và để phần mềm xử lý
 
 #### **🍳 Tự động nấu ăn:**
 - Mở menu nấu ăn trong game
 - Chọn công thức muốn nấu
-- Bật "Auto Cooking" và để phần mềm thực hiện
+- Bật "Tự động nấu ăn" và để phần mềm thực hiện
 
-#### **🎯 Tự động domain:**
+#### **🎯 Tự động cày domain:**
 - Vào domain muốn cày
-- Cấu hình số lần chạy
-- Bật "Auto Domain" và AFK
+- Cấu hình số lần chạy trong "Cài đặt nhiệm vụ"
+- Bật "Tự động cày domain" và AFK
 
 ### ⚙️ **Cài đặt nâng cao:**
-- **Hotkeys**: Tùy chỉnh phím tắt trong Settings
-- **Delays**: Điều chỉnh độ trễ phù hợp với máy
-- **Recognition**: Tinh chỉnh độ chính xác nhận diện
+- **Phím tắt**: Tùy chỉnh hotkey trong "Cài đặt kích hoạt"
+- **Độ trễ**: Điều chỉnh thời gian chờ phù hợp với máy
+- **Nhận diện**: Tinh chỉnh độ chính xác trong "Cài đặt chung"
 
 ### 🚨 **Lưu ý quan trọng:**
 - ⚠️ **Chỉ sử dụng trong PvE** - không dùng trong co-op
