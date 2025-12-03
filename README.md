@@ -38,7 +38,7 @@
 
 - **Hệ điều hành**: Windows 10/11 (64-bit)
 - **Framework**: .NET 8 Runtime
-- **Độ phân giải**: 16:9 (khuyến nghị 1920x1080)
+- **Độ phân giải**: 16:9 (khuyến nghị 1920x1080 hoặc 1920x1440)
 - **Phần cứng**: CPU đủ mạnh cho xử lý hình ảnh
 - **RAM**: Tối thiểu 4GB
 
