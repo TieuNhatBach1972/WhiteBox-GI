@@ -1,6 +1,6 @@
 # 🎮 WhiteBox-GI - Công cụ hỗ trợ Genshin Impact
 
-[![Version](https://img.shields.io/badge/Version-1.0.1-brightgreen)](https://github.com/TieuNhatBach1972/WhiteBox-GI/releases)
+[![Version](https://img.shields.io/badge/Version-1.0.0-brightgreen)](https://github.com/TieuNhatBach1972/WhiteBox-GI/releases)
 [![Platform](https://img.shields.io/badge/Platform-Windows-blue)](https://github.com/TieuNhatBach1972/WhiteBox-GI)
 [![License](https://img.shields.io/badge/License-Proprietary-red)](https://github.com/TieuNhatBach1972/WhiteBox-GI)
 
