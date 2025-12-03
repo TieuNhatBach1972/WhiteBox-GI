@@ -44,11 +44,59 @@
 
 ## 🚀 Cài đặt và sử dụng
 
-1. **Tải file cài đặt** từ [Releases](https://github.com/TieuNhatBach1972/WhiteBox-GI/releases/latest)
+### 📦 **Phiên bản Installer (Khuyến nghị):**
+1. **Tải file** `WhiteBox-GI.Install.x.x.x.exe` từ [Releases](https://github.com/TieuNhatBach1972/WhiteBox-GI/releases/latest)
 2. **Chạy installer** với quyền Administrator
 3. **Khởi động WhiteBox-GI** từ Desktop hoặc Start Menu
 4. **Cấu hình** theo hướng dẫn trong phần mềm
 5. **Bắt đầu sử dụng** các tính năng tự động hóa
+
+### 💼 **Phiên bản Portable:**
+1. **Tải file** `WhiteBox-GI.vx.x.x.zip` từ [Releases](https://github.com/TieuNhatBach1972/WhiteBox-GI/releases/latest)
+2. **Giải nén** vào thư mục bất kỳ
+3. **Chạy** `WhiteBox-GI.exe` với quyền Administrator
+4. **Cấu hình** và sử dụng như bình thường
+5. **Lưu ý**: Cài đặt sẽ lưu trong thư mục phần mềm
+
+## 📚 Hướng dẫn sử dụng
+
+### 🔧 **Lần đầu sử dụng:**
+1. **Khởi động game** Genshin Impact ở chế độ cửa sổ (Windowed)
+2. **Mở WhiteBox-GI** với quyền Administrator
+3. **Cấu hình độ phân giải** phù hợp (khuyến nghị 1920x1080)
+4. **Kiểm tra nhận diện** - click "Test Recognition" để đảm bảo hoạt động
+
+### 🎮 **Sử dụng tính năng:**
+
+#### **📦 Tự động nhặt đồ:**
+- Bật tính năng trong tab "Auto Pickup"
+- Di chuyển nhân vật gần vật phẩm
+- Phần mềm sẽ tự động nhặt
+
+#### **🎣 Tự động câu cá:**
+- Vào khu vực câu cá trong game
+- Bật "Auto Fishing" trong phần mềm
+- Ném cần câu và để phần mềm xử lý
+
+#### **🍳 Tự động nấu ăn:**
+- Mở menu nấu ăn trong game
+- Chọn công thức muốn nấu
+- Bật "Auto Cooking" và để phần mềm thực hiện
+
+#### **🎯 Tự động domain:**
+- Vào domain muốn cày
+- Cấu hình số lần chạy
+- Bật "Auto Domain" và AFK
+
+### ⚙️ **Cài đặt nâng cao:**
+- **Hotkeys**: Tùy chỉnh phím tắt trong Settings
+- **Delays**: Điều chỉnh độ trễ phù hợp với máy
+- **Recognition**: Tinh chỉnh độ chính xác nhận diện
+
+### 🚨 **Lưu ý quan trọng:**
+- ⚠️ **Chỉ sử dụng trong PvE** - không dùng trong co-op
+- ⚠️ **Không AFK hoàn toàn** - thỉnh thoảng kiểm tra
+- ⚠️ **Tuân thủ ToS** - sử dụng có trách nhiệm
 
 ## 🛡️ An toàn và bảo mật
 
